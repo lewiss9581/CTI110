@@ -17,3 +17,4 @@ profit = total_sales * 0.23
 
 #Display the profit
 print('The profit is $', profit)
+# end of program
